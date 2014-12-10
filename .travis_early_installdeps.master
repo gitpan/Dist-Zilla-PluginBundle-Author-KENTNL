@@ -1,4 +1,0 @@
-Dist::Zilla::Role::BundleDeps
-Dist::Zilla::Plugin::Test::ReportPrereqs
-MooseX::StrictConstructor
-MooseX::AttributeShortcuts
